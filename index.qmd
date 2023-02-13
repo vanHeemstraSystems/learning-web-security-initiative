@@ -10,10 +10,20 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 We base our Initiative: Master Security on Planning a [Minumum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
-1. Identify and understand the **Business Needs**.
+At the very beginning, you should have identified a need as to why the product (i.e., good or service) should exist. This could be an organizational need or a customer need that addresses a current gap.
 
-a) Determine the **long-term goal** of the product (i.e., good or service) and write it down.
+## 1. Identify and understand the **Business Needs**.
 
-b) Answer the question "**Why are we doing this project?**"
+### a) Determine the **long-term goal** of the product (i.e., good or service) and write it down.
 
-c) Identify the **success criteria** that will indicate whether or not the product (i.e., good or service) is successful.
+The long-term goal of mastering security is to prevent and/or mitigate risks of loss or theft of valuable information (including intellectual property, secrets, and other sensitive data).
+
+### b) Answer the question "**Why are we doing this project?**"
+
+The reason for mastering security is to obtain the knowledge and train the practise of preventing and /or mitigating risks of loss or theft of valuable information.
+
+### c) Identify the **success criteria** that will indicate whether or not the product (i.e., good or service) is successful.
+
+[If you master something, you learn how to do it properly or you succeed in understanding it completely.](https://www.collinsdictionary.com/dictionary/english/master-a-subject#:~:text=If%20you%20master%20something%2C%20you,succeed%20in%20understanding%20it%20completely.) 
+
+Hence, mastering security has been successful if we either ```learn how to do it properly``` or we ```succeed in understanding it completely```.
