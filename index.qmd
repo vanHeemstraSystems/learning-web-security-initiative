@@ -6,9 +6,7 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
----
-title: Master Security
----
+# Master Security
 
 We base our Initiative: Master Security on Planning a <Minumum Viable Nothing (MVN)|https://github.com/vanHeemstraSystems/minimum-viable-nothing>.
 
