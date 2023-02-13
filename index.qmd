@@ -8,7 +8,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 # Master Security
 
-We base our Initiative: Master Security on Planning a [Minumum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+We base our Initiative: Master Security on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
 At the very beginning, you should have identified a need as to why the product (i.e., good or service) should exist. This could be an organizational need or a customer need that addresses a current gap.
 
