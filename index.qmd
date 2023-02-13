@@ -8,7 +8,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 # Master Security
 
-We base our Initiative: Master Security on Planning a <Minumum Viable Nothing (MVN)|https://github.com/vanHeemstraSystems/minimum-viable-nothing>.
+We base our Initiative: Master Security on Planning a [Minumum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
 1. Identify and understand the **Business Needs**.
 
