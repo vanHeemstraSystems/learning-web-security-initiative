@@ -5,3 +5,17 @@ title: "Learning Security - Initiative"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+---
+title: Master Security
+---
+
+We base our Initiative: Master Security on Planning a <Minumum Viable Nothing (MVN)|https://github.com/vanHeemstraSystems/minimum-viable-nothing>.
+
+1. Identify and understand the **Business Needs**.
+
+a) Determine the **long-term goal** of the product (i.e., good or service) and write it down.
+
+b) Answer the question "**Why are we doing this project?**"
+
+c) Identify the **success criteria** that will indicate whether or not the product (i.e., good or service) is successful.
