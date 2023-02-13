@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Learning Security - Initiative",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Security\nWe base our Initiative: Master Security on Planning a Minumum Viable Nothing (MVN).\n\nIdentify and understand the Business Needs.\n\n\nDetermine the long-term goal of the product (i.e., good or service) and write it down.\nAnswer the question “Why are we doing this project?”\nIdentify the success criteria that will indicate whether or not the product (i.e., good or service) is successful."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#identify-and-understand-the-business-needs.",
+    "href": "index.html#identify-and-understand-the-business-needs.",
+    "title": "Learning Security - Initiative",
+    "section": "1. Identify and understand the Business Needs.",
+    "text": "1. Identify and understand the Business Needs.\n\na) Determine the long-term goal of the product (i.e., good or service) and write it down.\nThe long-term goal of mastering security is to prevent and/or mitigate risks of loss or theft of valuable information (including intellectual property, secrets, and other sensitive data).\n\n\nb) Answer the question “Why are we doing this project?”\nThe reason for mastering security is to obtain the knowledge and train the practise of preventing and /or mitigating risks of loss or theft of valuable information.\n\n\nc) Identify the success criteria that will indicate whether or not the product (i.e., good or service) is successful.\nIf you master something, you learn how to do it properly or you succeed in understanding it completely.\nHence, mastering security has been successful if we either learn how to do it properly or we succeed in understanding it completely."
   },
   {
     "objectID": "about.html",
