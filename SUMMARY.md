@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Cyber Security - Initiative](README.md)
+* [Learning Web Security - Initiative](README.md)
